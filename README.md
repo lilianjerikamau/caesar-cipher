@@ -4,9 +4,9 @@ This is a java Implementation of Caesar cipher, both encoding, and decoding. The
 ## Technologies
 
 This project was generated with
-Java 
-Intellij Idea - Intergated development
-Spark - Framework
+*Java 
+*Intellij Idea - Intergated development
+*Spark - Framework
 
 ## Development server
 
@@ -15,11 +15,11 @@ Run `gradle run` for a dev server. Navigate to `http://localhost:4567/`. The app
 ## Prerequisites
 You need the following installed on your machine
 
-java
-JDK - Java Development Kit
-Maven
-Gradle
-An IDE - Intellij
+*java
+*JDK - Java Development Kit
+*Maven
+*Gradle
+*An IDE - Intellij
 
 ## Installing
 After cloning to your local machine navigate to the folder you cloned into and open it with intellij.
